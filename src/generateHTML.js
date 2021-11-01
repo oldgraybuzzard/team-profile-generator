@@ -135,7 +135,7 @@ const generateTeamPage = function (employeeCards) {
   <footer>
   <div class="container">
       <div class="col-md-4 d-flex align-items-center">
-          <p>Made with Love by:  <a href="https://github.com/oldgraybuzzard">Oldgraybuzzard</a> &copy; 2021</p>
+          <p>Made with ❤️ by:  <a href="https://github.com/oldgraybuzzard">Oldgraybuzzard</a> &copy; 2021</p>
   </div>
 </div>
 </footer>
