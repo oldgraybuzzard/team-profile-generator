@@ -199,7 +199,7 @@ const writeFile = data => {
             return;
         // when the profile has been created 
         } else {
-            console.log("Your office staff profile has been successfully created! Please check out the index.html")
+            console.log("Your office staff profile has been successfully created! Please check out the index.html file in the /dist folder!")
         }
     })
 }; 
