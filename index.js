@@ -77,7 +77,7 @@ const addManager = () => {
 const addEmployee = () => {
     console.log(`
     =================
-    Adding employees to the team list
+    Adding employees to the staff list
     =================
     `);
 
@@ -199,7 +199,7 @@ const writeFile = data => {
             return;
         // when the profile has been created 
         } else {
-            console.log("Your office staff profile has been successfully created! Please check out the index.html file in the /dist folder!")
+            console.log("Your office staff profile has been successfully created! Please check out the index.html")
         }
     })
 }; 
